@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Dharmendra Singh  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&size=25&center=true&vCenter=true&width=1000&lines=CSE+Student+|+Data+Science+Major;Python+%7C+NumPy+%7C+Pandas+%7C+Matplotlib+%7C+Seaborn+%7C+SciPy;Excel+%7C+Power+BI+%7C+Machine+Learning;Summer+Internship+in+AI+ML+with+Python+%40+CSE+Pathshala;Passionate+about+turning+Data+into+Insights)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&size=25&center=true&vCenter=true&width=1000&lines=CSE+Student;Python+%7C+NumPy+%7C+Pandas+%7C+Matplotlib+%7C+Seaborn+%7C+SciPy;Excel+%7C+Power+BI+%7C+Machine+Learning;Summer+Internship+in+AI+ML+with+Python+%40+CSE+Pathshala;Passionate+about+turning+Data+into+Insights)
 
 ---
 
 ## 🚀 About Me  
-- 🎓 **CSE Student (Data Science Major) @ Lovely Professional University**  
+- 🎓 **CSE Student @ Lovely Professional University**  
 - 🐍 Skilled in **Python, NumPy, Pandas, Matplotlib, Seaborn, SciPy**  
 - 📊 Experienced with **Regression Algorithms, Advanced Excel, Power BI**  
 - 📈 Built **Excel Dashboards & Power BI Reports**  
