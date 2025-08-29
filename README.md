@@ -1,18 +1,16 @@
 # 👋 Hi, I'm Dharmendra Singh  
 
-🎓 **CSE Student | Data Science Major**  
-📍 Lovely Professional University  
-💡 Passionate about **AI, ML, and Data-Driven Solutions**  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&size=25&center=true&vCenter=true&width=1000&lines=CSE+Student+|+Data+Science+Major;Python+%7C+NumPy+%7C+Pandas+%7C+Matplotlib+%7C+Seaborn+%7C+SciPy;Excel+%7C+Power+BI+%7C+Machine+Learning;Summer+Internship+in+AI+ML+with+Python+%40+CSE+Pathshala;Passionate+about+turning+Data+into+Insights)
 
 ---
 
 ## 🚀 About Me  
-- 🔭 Currently working on **Data Science & Machine Learning Projects**  
-- 🌱 Learning **Python, NumPy, Pandas, Matplotlib, Seaborn, SciPy**  
-- 📊 Skilled in **Regression Algorithms, Excel (Advanced), Power BI**  
-- 📈 Built **Excel Dashboards** and **Power BI Reports**  
-- 🤝 Completed **Summer Internship in AI/ML with Python @ CSE Pathshala**  
-- ⚡ Love turning **data into meaningful insights**  
+- 🎓 **CSE Student (Data Science Major) @ Lovely Professional University**  
+- 🐍 Skilled in **Python, NumPy, Pandas, Matplotlib, Seaborn, SciPy**  
+- 📊 Experienced with **Regression Algorithms, Advanced Excel, Power BI**  
+- 📈 Built **Excel Dashboards & Power BI Reports**  
+- 🤖 Completed **AI/ML Internship with Python @ CSE Pathshala**  
+- 🌟 Interested in **AI, ML, and Data-Driven Solutions**  
 
 ---
 
@@ -32,15 +30,16 @@
 ## 📊 GitHub Stats  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical)  
 
 ---
 
 ## ✨ Featured Projects  
 
-- 📈 **Excel Dashboard** – Advanced Excel visualization for analytics  
-- 📊 **Power BI Dashboard** – Interactive student & sales data insights  
-- 🤖 **Machine Learning (Regression)** – Forecasting using Python & scikit-learn  
+- 📊 **Power BI Dashboard** – Interactive reports for analytics  
+- 📈 **Excel Dashboard** – Advanced Excel visualization  
+- 🤖 **ML Regression Model** – Sales Forecasting using Python & scikit-learn  
 
 ---
 
@@ -49,6 +48,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)  
+
+---
+
+## 👀 Visitor Count  
+
+![Visitor Count](https://profile-counter.glitch.me/YOUR_USERNAME/count.svg)  
 
 ---
 
